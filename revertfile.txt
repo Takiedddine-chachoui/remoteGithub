@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modif 1-2
+=======
+1 revert
+hellow revert
+>>>>>>> parent of 3f40a94... ecrire pour la 2eme fois dans le Rivert file
